@@ -1,3 +1,9 @@
-body{
-    background-image: url("../assets/c.jpg1.jpg");
-} 
+body {
+    background-image:
+        url("./assets/c.jpg1.jpg"),
+        url(./assets/unnamed.jpg),
+        url(./assets/download.jpg);
+        background-repeat: no-repeat,no-repeat,no-repeat;
+        background-size: 500px,500px,500px;
+        background-position: 0px 0px,500px 0px,1000px 0px;
+}
