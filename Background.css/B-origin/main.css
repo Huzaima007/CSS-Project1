@@ -1,0 +1,28 @@
+body{
+    background-image: url("../assets/c.jpg1.jpg");
+    background-size: cover;
+}
+.box{
+    width: 640px;
+    height: 400px;
+    margin: 50px auto;
+    color: #ff0;
+    background-color: rgba(0,0,0,.5);
+    border: 40px dotted #ff0;
+    padding: 40px;
+    background-image: url("../assets/c.jpg2.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-origin: border-box;
+}
+.box p{
+    margin: 20px 0px 0px 0px;
+    float: left;
+    text-shadow: tahoma;
+}
+.box h1{
+    font-size: 55px;
+}
+.box p{
+    font-size: 30px;
+}
