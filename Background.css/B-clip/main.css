@@ -1,0 +1,25 @@
+.box {
+    width: 640px;
+    height: 400px;
+    margin: 50px auto;
+    color: #f00;
+    border: 40px dotted #f00;
+    padding: 40px;
+    background-color: #ff0;
+    background-clip: content-box;
+}
+
+.box p {
+    margin: 20px 0px 0px 0px;
+    float: left;
+    font-family: tahoma;
+}
+
+.box h1 {
+    font-size: 55px;
+    font-family: tahoma;
+}
+
+.box p {
+    font-size: 30px;
+}
