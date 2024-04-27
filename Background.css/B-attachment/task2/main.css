@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(92, 78, 78);
+    color: #fff;
+    background-image: url("../../assets/c1.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1,
+p {
+    margin: 25px 300px;
+    float: left;
+    font-family: tahoma;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+p {
+    font-size: 30px;
+}
