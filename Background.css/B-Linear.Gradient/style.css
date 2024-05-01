@@ -1,0 +1,28 @@
+body {
+    background-image: url("../assets/c1.png");
+    background-size: cover;
+}
+
+.box {
+    width: 800px;
+    height: 500px;
+    margin: 100px auto 0px auto;
+    border: 10px solid #fff;
+    background-image: repeating-linear-gradient(to right, red, yellow 10%, green 20%)
+}
+
+h1,
+p {
+    margin: 150px 150px 0px 150px;
+    float: left;
+    font-family: tahoma;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+    margin-top: 30px;
+}
