@@ -7,8 +7,7 @@ body {
     height: 400px;
     margin: 150px auto 0px auto;
     border: 10px solid #fff;
-    background-image: radial-gradient(ellipse at top, red, transparent),
-        radial-gradient(ellipse at bottom, yellow transparent)
+    background-image: radial-gradient(closest-corner at 30% 40%, red, yellow, green);
 }
 
 h1,
