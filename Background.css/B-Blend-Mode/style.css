@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    width: 100vw;
+    height: 100vh;
+    background: url("../assets/c1.png"), url("../assets/c2.jpg"), linear-gradient(blue, yellow, green);
+    background-size: cover;
+    background-blend-mode: multiply;
+}
