@@ -1,0 +1,11 @@
+.box{
+    width: 550px;
+    margin: 200px auto 0px auto;
+    border-style: double;
+    border-width: 10px;
+    border-color: green;
+}
+.box h1,p{
+    margin: 20px;
+    padding: 10px 0px;
+}
